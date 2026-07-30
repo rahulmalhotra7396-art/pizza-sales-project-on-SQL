@@ -147,7 +147,7 @@ Pizza-Sales-Analysis-SQL/
 **Rahul Malhotra**
 
 - LinkedIn: www.linkedin.com/in/rahul-malhotra-443aa6346
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/rahulmalhotra7396-art
 
 ---
 
